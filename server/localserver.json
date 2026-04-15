@@ -1,0 +1,1359 @@
+{
+  "maincategory": [
+    {
+      "name": "Female",
+      "pic": "maincategory/women.jpg",
+      "status": true,
+      "id": "0676"
+    },
+    {
+      "name": "Male",
+      "pic": "maincategory/men.png",
+      "status": true,
+      "id": "b325"
+    },
+    {
+      "id": "bd39",
+      "name": "Kids",
+      "pic": "maincategory/kids.png",
+      "status": true
+    },
+    {
+      "name": "Adult",
+      "pic": "maincategory/adult.jpg",
+      "status": true,
+      "id": "f0d8"
+    },
+    {
+      "id": "8fab",
+      "name": "Electronics",
+      "pic": "maincategory/electronics.jpg",
+      "status": true
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "c9ae",
+      "name": "Shirt",
+      "pic": "subcategory/shirt.png",
+      "status": true
+    },
+    {
+      "id": "abf6",
+      "name": "Jeans",
+      "pic": "subcategory/jeans.jpg",
+      "status": true
+    },
+    {
+      "id": "7c1b",
+      "name": "Kids",
+      "pic": "subcategory/kids.png",
+      "status": true
+    },
+    {
+      "id": "b471",
+      "name": "Adults",
+      "pic": "subcategory/adult.png",
+      "status": true
+    },
+    {
+      "id": "e756",
+      "name": "Kurta",
+      "pic": "/subcategory/adult3.jpg",
+      "status": true
+    },
+    {
+      "id": "ce53",
+      "name": "Designer Suit",
+      "pic": "/subcategory/adult1.jpg",
+      "status": true
+    }
+  ],
+  "brand": [
+    {
+      "id": "9a3f",
+      "name": "Food",
+      "pic": "brand/brand10.png",
+      "status": true
+    },
+    {
+      "id": "b203",
+      "name": "Adidas",
+      "pic": "brand/brand5.png",
+      "status": true
+    },
+    {
+      "id": "f4e3",
+      "name": "Unilever",
+      "pic": "brand/brand6.png",
+      "status": true
+    },
+    {
+      "id": "0d57",
+      "name": "Jetta",
+      "pic": "brand/brand3.png",
+      "status": true
+    },
+    {
+      "id": "0419",
+      "name": "Dodge",
+      "pic": "brand/brand2.png",
+      "status": true
+    },
+    {
+      "id": "42bd",
+      "name": "Tommy Hilfiger",
+      "pic": "brand/brand9.png",
+      "status": true
+    },
+    {
+      "id": "1651",
+      "name": "Crack Code",
+      "pic": "brand/brand1.png",
+      "status": true
+    },
+    {
+      "id": "3f68",
+      "name": "Under Armour",
+      "pic": "brand/brand8.png",
+      "status": true
+    },
+    {
+      "id": "c7ca",
+      "name": "Realme",
+      "pic": "brand/brand4.png",
+      "status": true
+    },
+    {
+      "id": "ad0e",
+      "name": "Unbolted",
+      "pic": "brand/brand7.png",
+      "status": true
+    },
+    {
+      "id": "7ca2",
+      "email": "workzone406@gmail.com",
+      "status": true
+    },
+    {
+      "id": "e832",
+      "email": "asda@gmail.com",
+      "status": true
+    },
+    {
+      "id": "b1b5",
+      "email": "asas@gmail.com",
+      "status": true
+    },
+    {
+      "id": "a777",
+      "email": "abc@gmail.com",
+      "status": true
+    },
+    {
+      "id": "b16e",
+      "email": "qwegfdsa@YAHOO.COM",
+      "status": true
+    },
+    {
+      "id": "cf5d",
+      "email": "workzone406@gmail.com",
+      "status": true
+    },
+    {
+      "id": "fd79",
+      "email": "sdrtyulkjhgfdsa@GMAIL.COM",
+      "status": true
+    },
+    {
+      "id": "defc",
+      "email": "aabd@gmail.com",
+      "status": true
+    },
+    {
+      "id": "8da7",
+      "email": "aabx@gmail.com",
+      "status": true
+    },
+    {
+      "id": "b55b",
+      "email": "aabx@gmail.com",
+      "status": true
+    }
+  ],
+  "product": [
+    {
+      "id": "8c4f",
+      "name": "Loosy Jeanse",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Dodge",
+      "color": [
+        "white",
+        "pink",
+        "blue",
+        "brown",
+        "navy",
+        "black",
+        "orange",
+        "green",
+        "orchid"
+      ],
+      "size": [
+        "xxl",
+        "xl",
+        "m",
+        "40",
+        "32",
+        "28"
+      ],
+      "basePrice": 3999,
+      "discount": 12,
+      "finalPrice": 3519,
+      "stock": true,
+      "stockQuantity": 18,
+      "pic": [
+        "product/women8.jpg",
+        "product/women9.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nComfort meets style with these trendy loose-fit jeans for women. Designed with a relaxed silhouette, they offer all-day comfort while keeping your look effortlessly chic. Perfect for casual <span style=\"font-weight: bold;\">outings, travel, or everyday wear.\n</span><br /></p>"
+    },
+    {
+      "id": "193e",
+      "name": "Straight Trowser",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Under Armour",
+      "color": [
+        "pink",
+        "brown",
+        "cyan",
+        "orchid"
+      ],
+      "size": [
+        "28",
+        "42",
+        "32",
+        "xl"
+      ],
+      "basePrice": 5999,
+      "discount": 18,
+      "finalPrice": 4919,
+      "stock": true,
+      "stockQuantity": 20,
+      "pic": [
+        "product/women8.jpg",
+        "product/women9.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nUpgrade your everyday s<span style=\"font-style: italic;\">tyle with these women’s straight trouser</span>s. Designed with a clean, straight fit, they offer a perfect balance of comfort and sophistication. Ideal for office wear, casual outings, or formal occasions.\n<br /></p>"
+    },
+    {
+      "id": "ce33",
+      "name": "Kurta",
+      "maincategory": "Female",
+      "subcategory": "Kurta",
+      "brand": "Unilever",
+      "color": [
+        "pink",
+        "navy",
+        "orange",
+        "green",
+        "yellow",
+        "cyan",
+        "blue",
+        "gray",
+        "white"
+      ],
+      "size": [
+        "xs",
+        "sm",
+        "lg",
+        "42",
+        "xxl"
+      ],
+      "basePrice": 999,
+      "discount": 3,
+      "finalPrice": 969,
+      "stock": true,
+      "stockQuantity": 47,
+      "pic": [
+        "product/women10.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nEnhance your ethnic wardrobe with this elegant women’s kurta. Designed for comfort and style, it features a flattering fit and soft fabric, making it perfect for daily wear, office use, or festive occasions.\n<br /></p>"
+    },
+    {
+      "id": "8dfd",
+      "name": "Printed Suit",
+      "maincategory": "Female",
+      "subcategory": "Designer Suit",
+      "brand": "Crack Code",
+      "color": [
+        "white",
+        "black",
+        "green",
+        "yellow",
+        "blue",
+        "gray",
+        "pink"
+      ],
+      "size": [
+        "32",
+        "xl",
+        "m",
+        "40",
+        "34",
+        "28",
+        "44"
+      ],
+      "basePrice": 6000,
+      "discount": 12,
+      "finalPrice": 5280,
+      "stock": true,
+      "stockQuantity": 33,
+      "pic": [
+        "product/adult2 - Copy.jpg",
+        "product/adult3 - Copy.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nElevate your style with this elegant designer suit. Crafted with attention to detail, it combines sophistication and comfort, making it perfect for formal events, parties, or festive occasions.\n<br /></p>\r\n<p>\nStep into the spotlight with this stunning women’s designer suit. Featuring intricate detailing and a modern silhouette, it offers a luxurious look while ensuring all-day comfort. Ideal for <span style=\"font-weight: bold;\">weddings</span>, <span style=\"font-weight: bold;\">celebrations</span>, or <span style=\"font-weight: bold;\">special occasions</span>.\n<br /></p>"
+    },
+    {
+      "id": "a0e7",
+      "name": "Men Denim Triggered",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Jetta",
+      "color": [
+        "white",
+        "blue",
+        "black",
+        "brown",
+        "navy",
+        "gray"
+      ],
+      "size": [
+        "xxl",
+        "xl",
+        "lg",
+        "m",
+        "40",
+        "32",
+        "34",
+        "42",
+        "30"
+      ],
+      "basePrice": 2666,
+      "discount": 8,
+      "finalPrice": 2452,
+      "stock": true,
+      "stockQuantity": 97,
+      "pic": [
+        "product/men8.jpg",
+        "product/men9.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nUpgrade your everyday style with these classic men’s jeans. Designed for comfort and durability, they feature a versatile fit that works perfectly for casual outings, office wear, or weekend hangouts.\n<br /></p>"
+    },
+    {
+      "id": "b308",
+      "name": "Male Shirt",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Tommy Hilfiger",
+      "color": [
+        "gray",
+        "brown",
+        "orchid",
+        "black",
+        "navy"
+      ],
+      "size": [
+        "32",
+        "40",
+        "xs",
+        "26",
+        "xxl",
+        "44",
+        "36",
+        "m"
+      ],
+      "basePrice": 1899,
+      "discount": 4,
+      "finalPrice": 1823,
+      "stock": true,
+      "stockQuantity": 77,
+      "pic": [
+        "product/men3.jpg",
+        "product/men2.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nUpgrade your wardrobe with this classic men’s shirt. Designed for comfort and style, it features a perfect fit and soft fabric, making it ideal for office wear, casual outings, or formal occasions.\n<br /></p>"
+    },
+    {
+      "id": "5a78",
+      "name": "Kids Girl Kurta",
+      "maincategory": "Kids",
+      "subcategory": "Kurta",
+      "brand": "Under Armour",
+      "color": [
+        "white",
+        "pink",
+        "blue",
+        "green",
+        "black",
+        "orange",
+        "yellow"
+      ],
+      "size": [
+        "m",
+        "sm",
+        "28",
+        "26",
+        "xl",
+        "lg"
+      ],
+      "basePrice": 2000,
+      "discount": 12,
+      "finalPrice": 1760,
+      "stock": true,
+      "stockQuantity": 53,
+      "pic": [
+        "product/kids11.jpg",
+        "product/kids10.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nDress your little one in vibrant charm with our <strong data-start=\"200\" data-end=\"219\">Kids Girl Kurta</strong>, designed for both comfort and style. Crafted from soft, breathable fabric, this kurta ensures all-day ease while keeping your child looking adorable. Perfect for casual outings, family gatherings, or festive occasions, it blends traditional elegance with modern flair.\n<br /></p>"
+    },
+    {
+      "id": "60c1",
+      "name": "Shape Gainer",
+      "maincategory": "Adult",
+      "subcategory": "Adults",
+      "brand": "Under Armour",
+      "color": [
+        "navy",
+        "white",
+        "orange",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "lg",
+        "40",
+        "32",
+        "m",
+        "36",
+        "28"
+      ],
+      "basePrice": 800,
+      "discount": 2,
+      "finalPrice": 784,
+      "stock": true,
+      "stockQuantity": 42,
+      "pic": [
+        "product/women2.jpg",
+        "product/women5.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nAchieve your fitness goals faster with our <strong data-start=\"203\" data-end=\"219\">Shape Gainer</strong>, specially formulated to support healthy weight gain and muscle development. Packed with high-quality proteins, essential vitamins, and minerals, it provides the nutrition your body needs for lean muscle growth and overall wellness. \n<br /></p>"
+    },
+    {
+      "id": "8ef3",
+      "name": "Men Kurta",
+      "maincategory": "Male",
+      "subcategory": "Kurta",
+      "brand": "Crack Code",
+      "color": [
+        "white",
+        "navy",
+        "cyan",
+        "green",
+        "orchid",
+        "blue",
+        "black",
+        "gray"
+      ],
+      "size": [
+        "xl",
+        "xxl",
+        "30",
+        "34",
+        "lg",
+        "36",
+        "44"
+      ],
+      "basePrice": 1200,
+      "discount": 6,
+      "finalPrice": 1128,
+      "stock": true,
+      "stockQuantity": 48,
+      "pic": [
+        "product/adult9.jpg",
+        "product/adult10.jpg"
+      ],
+      "status": true,
+      "description": "<p>\nStep out in effortless style with our <strong data-start=\"189\" data-end=\"204\">Men’s Kurta</strong>, designed to blend traditional charm with contemporary comfort. Crafted from soft, breathable fabric, this kurta ensures all-day ease while maintaining a sharp, refined look. Perfect for casual gatherings, festive occasions, or cultural celebrations, it’s a wardrobe essential for every modern man.\n<br /></p>"
+    },
+    {
+      "name": "Laser Jacket",
+      "maincategory": "Male",
+      "subcategory": "Adults",
+      "brand": "Crack Code",
+      "color": [
+        "white",
+        "gray",
+        "blue",
+        "brown",
+        "navy",
+        "black",
+        "green"
+      ],
+      "size": [
+        "xxl",
+        "xl",
+        "lg",
+        "34",
+        "32",
+        "28"
+      ],
+      "basePrice": 12000,
+      "discount": 9,
+      "finalPrice": 10920,
+      "stock": false,
+      "stockQuantity": 0,
+      "pic": [
+        "product/men13.jpeg",
+        "product/men14.jpeg",
+        "product/men12.jpg"
+      ],
+      "status": true,
+      "id": "c9ac",
+      "description": "<p>\nUpgrade your wardrobe with our <strong data-start=\"197\" data-end=\"219\">Men’s Laser Jacket</strong>, designed for those who appreciate cutting-edge fashion and premium craftsmanship. Featuring intricate laser-cut detailing, this jacket delivers a sleek, contemporary look that stands out effortlessly. Ideal for casual outings, parties, or evening wear, it combines style, comfort, and durability in one statement piece.\n<br /></p>"
+    }
+  ],
+  "feature": [
+    {
+      "name": "Secure Platform",
+      "icon": "<i class=\"fa fa-lock\"></i>",
+      "shortDescription": "Advanced security features to protect user data and transactions.",
+      "status": true,
+      "id": "4296"
+    },
+    {
+      "id": "9acc",
+      "name": "Smart Search",
+      "icon": "<i class=\"fa fa-search\"></i>",
+      "shortDescription": "Advanced search functionality for quick and accurate product discovery.",
+      "status": true
+    },
+    {
+      "name": "Shopping Experience",
+      "icon": "<i class=\"fa fa-shopping-cart\"></i>",
+      "shortDescription": "Smooth and user-friendly shopping journey with easy checkout process.",
+      "status": true,
+      "id": "47a4"
+    },
+    {
+      "name": "24/7 Support",
+      "icon": "<i class=\"fa fa-headset\"></i>",
+      "shortDescription": "Smooth and user-friendly shopping journey with easy checkout process.",
+      "status": true,
+      "id": "3f9c"
+    },
+    {
+      "name": "Easy Customization",
+      "icon": "<i class=\"fa fa-sliders-h\"></i>",
+      "shortDescription": "Flexible customization options to tailor the website according to your needs.",
+      "status": true,
+      "id": "6c59"
+    }
+  ],
+  "service": [],
+  "testimonial": [
+    {
+      "id": "66bb",
+      "message": "Received Same Quality Shown in the Product details section. Brilient Developer Abdul Ahad Hire Him",
+      "star": 5,
+      "product": "5a78",
+      "user": "c1ea",
+      "name": "Abdul Ahad"
+    }
+  ],
+  "faq": [
+    {
+      "id": "7f2b",
+      "question": "How do I place an order?",
+      "answer": "Simply browse products, add items to your cart, and proceed to checkout. Enter your shipping details and choose a payment method to complete your order.",
+      "status": true
+    },
+    {
+      "id": "8f7b",
+      "question": "What payment methods are available?",
+      "answer": "We accept multiple payment options including Credit/Debit Cards, UPI, Net Banking, and Cash on Delivery (COD).",
+      "status": true
+    },
+    {
+      "id": "a068",
+      "question": "How long does delivery take?",
+      "answer": "Orders are typically delivered within 1–3 business days, depending on your location.",
+      "status": true
+    },
+    {
+      "id": "ab02",
+      "question": "Can I track my order?",
+      "answer": "Yes, once your order is shipped, you will receive a tracking link via SMS/email to monitor your delivery status.",
+      "status": true
+    }
+  ],
+  "setting": [
+    {
+      "map1": "https://maps.google.com/maps?width=600&height=400&hl=en&q=Ducat%2C%20Sector%2016%2C%20Noida&t=&z=14&ie=UTF8&iwloc=B&output=embed",
+      "map2": "",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "whatsapp": "7060150549",
+      "siteName": "",
+      "facebook": "",
+      "linkdin": "",
+      "instagram": "",
+      "x": "",
+      "pinterest": "",
+      "youtube": "",
+      "id": "833f"
+    }
+  ],
+  "user": [
+    {
+      "id": "c1ea",
+      "name": "Abdul Ahad",
+      "email": "0ab.ahad@gmail.com",
+      "phone": "9435322965",
+      "username": "Ab.ahad",
+      "password": "Oneplus@123",
+      "role": "Super Admin",
+      "status": true
+    },
+    {
+      "name": "Abdul Ahad",
+      "username": "abdul",
+      "email": "0ab.ahad0@gmail.com",
+      "phone": "9784343456",
+      "id": "1cae",
+      "password": "Oxygen@123",
+      "role": "Buyer",
+      "status": true
+    },
+    {
+      "id": "d324",
+      "name": "User",
+      "email": "user@gmail.com",
+      "phone": "9889874344",
+      "username": "User2",
+      "password": "User#1234",
+      "role": "Buyer",
+      "status": true
+    }
+  ],
+  "address": [
+    {
+      "id": "1dd9",
+      "name": "Abdul Ahad",
+      "email": "0ab.ahad0@gmail.com",
+      "phone": "9878767651",
+      "address": "B-81, New Ashok Nagar",
+      "pin": "110096",
+      "city": "Noida",
+      "state": "UP",
+      "user": "1cae"
+    },
+    {
+      "id": "ef15",
+      "name": "Daily User",
+      "email": "user@gmail.com",
+      "phone": "9876483726",
+      "address": "B-81, USA",
+      "pin": "3434345",
+      "city": "USA",
+      "state": "UP",
+      "user": "1cae"
+    },
+    {
+      "id": "ed3f",
+      "name": "Abdul Ahad",
+      "email": "ahad@gmail.com",
+      "phone": "9889890989",
+      "address": "S-43, Zinjuan Chungu, Tugdumbu, Chakaula",
+      "pin": "99093",
+      "city": "Kutrakus",
+      "state": "Brdngrta",
+      "user": "c1ea"
+    }
+  ],
+  "cart": [
+    {
+      "id": "2310",
+      "user": "1cae",
+      "product": "8ef3",
+      "name": "Men Kurta",
+      "brand": "Crack Code",
+      "color": "white",
+      "size": "xl",
+      "stockQuantity": 48,
+      "price": 1128,
+      "pic": "product/adult9.jpg",
+      "total": 1128,
+      "qty": 1
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "3925",
+      "user": "1cae",
+      "product": "8ef3",
+      "name": "Men Kurta",
+      "brand": "Crack Code",
+      "color": [
+        "white",
+        "navy",
+        "cyan",
+        "green",
+        "orchid",
+        "blue",
+        "black",
+        "gray"
+      ],
+      "size": [
+        "xl",
+        "xxl",
+        "30",
+        "34",
+        "lg",
+        "36",
+        "44"
+      ],
+      "stockQuantity": 59,
+      "price": 1128,
+      "pic": "product/adult9.jpg"
+    },
+    {
+      "id": "552e",
+      "user": "1cae",
+      "product": "c9ac",
+      "name": "Laser Jacket",
+      "brand": "Crack Code",
+      "color": "white",
+      "size": "xxl",
+      "stockQuantity": 0,
+      "price": 10920,
+      "pic": "product/men13.jpeg"
+    },
+    {
+      "id": "7517",
+      "user": "1cae",
+      "product": "b308",
+      "name": "Male Shirt",
+      "brand": "Tommy Hilfiger",
+      "color": [
+        "gray",
+        "brown",
+        "orchid",
+        "black",
+        "navy"
+      ],
+      "size": [
+        "32",
+        "40",
+        "xs",
+        "26",
+        "xxl",
+        "44",
+        "36",
+        "m"
+      ],
+      "stockQuantity": 77,
+      "price": 1823,
+      "pic": "product/men3.jpg"
+    },
+    {
+      "id": "0c33",
+      "user": "c1ea",
+      "product": "5a78",
+      "name": "Kids Girl Kurta",
+      "brand": "Under Armour",
+      "color": [
+        "white",
+        "pink",
+        "blue",
+        "green",
+        "black",
+        "orange",
+        "yellow"
+      ],
+      "size": [
+        "m",
+        "sm",
+        "28",
+        "26",
+        "xl",
+        "lg"
+      ],
+      "stockQuantity": 56,
+      "price": 1760,
+      "pic": "product/kids11.jpg"
+    },
+    {
+      "id": "92ca",
+      "user": "c1ea",
+      "product": "c9ac",
+      "name": "Laser Jacket",
+      "brand": "Crack Code",
+      "color": [
+        "white",
+        "gray",
+        "blue",
+        "brown",
+        "navy",
+        "black",
+        "green"
+      ],
+      "size": [
+        "xxl",
+        "xl",
+        "lg",
+        "34",
+        "32",
+        "28"
+      ],
+      "stockQuantity": 0,
+      "price": 10920,
+      "pic": "product/men13.jpeg"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "7493",
+      "email": "zsdfghj@gmail.com",
+      "status": true
+    },
+    {
+      "id": "e828",
+      "email": "xgfh@gmail.com",
+      "status": true
+    }
+  ],
+  "checkout": [
+    {
+      "id": "a9c1",
+      "user": "1cae",
+      "deliveryAddress": {
+        "id": "ef15",
+        "name": "Daily User",
+        "email": "user@gmail.com",
+        "phone": "9876483726",
+        "address": "B-81, USA",
+        "pin": "3434345",
+        "city": "USA",
+        "state": "UP",
+        "user": "1cae"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 10920,
+      "shipping": 0,
+      "total": 10920,
+      "date": "2026-03-27T19:17:32.239Z",
+      "products": [
+        {
+          "id": "739a",
+          "user": "1cae",
+          "product": "c9ac",
+          "name": "Laser Jacket",
+          "brand": "Crack Code",
+          "color": "blue",
+          "size": "lg",
+          "stockQuantity": 7,
+          "price": 10920,
+          "pic": "product/men13.jpeg",
+          "total": 10920,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "a606",
+      "user": "1cae",
+      "deliveryAddress": {
+        "id": "1dd9",
+        "name": "Abdul Ahad",
+        "email": "0ab.ahad0@gmail.com",
+        "phone": "9878767651",
+        "address": "B-81, New Ashok Nagar",
+        "pin": "110096",
+        "city": "Noida",
+        "state": "UP",
+        "user": "1cae"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 1128,
+      "shipping": 0,
+      "total": 1128,
+      "date": "2026-03-28T04:04:30.848Z",
+      "products": [
+        {
+          "id": "07ab",
+          "user": "1cae",
+          "product": "8ef3",
+          "name": "Men Kurta",
+          "brand": "Crack Code",
+          "color": "orchid",
+          "size": "lg",
+          "stockQuantity": 59,
+          "price": 1128,
+          "pic": "product/adult9.jpg",
+          "total": 1128,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "f684",
+      "user": "1cae",
+      "deliveryAddress": {
+        "id": "ef15",
+        "name": "Daily User",
+        "email": "user@gmail.com",
+        "phone": "9876483726",
+        "address": "B-81, USA",
+        "pin": "3434345",
+        "city": "USA",
+        "state": "UP",
+        "user": "1cae"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 10920,
+      "shipping": 0,
+      "total": 10920,
+      "date": "2026-03-28T04:05:07.812Z",
+      "products": [
+        {
+          "id": "5e46",
+          "user": "1cae",
+          "product": "c9ac",
+          "name": "Laser Jacket",
+          "brand": "Crack Code",
+          "color": "blue",
+          "size": "xl",
+          "stockQuantity": 6,
+          "price": 10920,
+          "pic": "product/men13.jpeg",
+          "total": 10920,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "a3ae",
+      "user": "1cae",
+      "deliveryAddress": {
+        "id": "1dd9",
+        "name": "Abdul Ahad",
+        "email": "0ab.ahad0@gmail.com",
+        "phone": "9878767651",
+        "address": "B-81, New Ashok Nagar",
+        "pin": "110096",
+        "city": "Noida",
+        "state": "UP",
+        "user": "1cae"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 9024,
+      "shipping": 0,
+      "total": 9024,
+      "date": "2026-03-28T04:06:09.266Z",
+      "products": [
+        {
+          "id": "df6a",
+          "user": "1cae",
+          "product": "8ef3",
+          "name": "Men Kurta",
+          "brand": "Crack Code",
+          "color": "white",
+          "size": "xl",
+          "stockQuantity": 58,
+          "price": 1128,
+          "pic": "product/adult9.jpg",
+          "total": 9024,
+          "qty": 8
+        }
+      ]
+    },
+    {
+      "id": "a2bd",
+      "user": "1cae",
+      "deliveryAddress": {
+        "id": "1dd9",
+        "name": "Abdul Ahad",
+        "email": "0ab.ahad0@gmail.com",
+        "phone": "9878767651",
+        "address": "B-81, New Ashok Nagar",
+        "pin": "110096",
+        "city": "Noida",
+        "state": "UP",
+        "user": "1cae"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 54600,
+      "shipping": 0,
+      "total": 54600,
+      "date": "2026-03-28T04:06:53.095Z",
+      "products": [
+        {
+          "id": "9a46",
+          "user": "1cae",
+          "product": "c9ac",
+          "name": "Laser Jacket",
+          "brand": "Crack Code",
+          "color": "white",
+          "size": "xxl",
+          "stockQuantity": 5,
+          "price": 10920,
+          "pic": "product/men13.jpeg",
+          "total": 54600,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "id": "692e",
+      "user": "1cae",
+      "deliveryAddress": {
+        "id": "ef15",
+        "name": "Daily User",
+        "email": "user@gmail.com",
+        "phone": "9876483726",
+        "address": "B-81, USA",
+        "pin": "3434345",
+        "city": "USA",
+        "state": "UP",
+        "user": "1cae"
+      },
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 1128,
+      "shipping": 0,
+      "total": 1128,
+      "date": "2026-03-28T04:17:20.196Z",
+      "products": [
+        {
+          "id": "d98a",
+          "user": "1cae",
+          "product": "8ef3",
+          "name": "Men Kurta",
+          "brand": "Crack Code",
+          "color": "white",
+          "size": "xl",
+          "stockQuantity": 50,
+          "price": 1128,
+          "pic": "product/adult9.jpg",
+          "total": 1128,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "d4c7",
+      "user": "1cae",
+      "deliveryAddress": {
+        "id": "ef15",
+        "name": "Daily User",
+        "email": "user@gmail.com",
+        "phone": "9876483726",
+        "address": "B-81, USA",
+        "pin": "3434345",
+        "city": "USA",
+        "state": "UP",
+        "user": "1cae"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 1128,
+      "shipping": 0,
+      "total": 1128,
+      "date": "2026-03-28T04:24:14.217Z",
+      "products": [
+        {
+          "id": "b2e0",
+          "user": "1cae",
+          "product": "8ef3",
+          "name": "Men Kurta",
+          "brand": "Crack Code",
+          "color": "white",
+          "size": "lg",
+          "stockQuantity": 49,
+          "price": 1128,
+          "pic": "product/adult9.jpg",
+          "total": 1128,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "8f82",
+      "user": "c1ea",
+      "deliveryAddress": {
+        "id": "ed3f",
+        "name": "Abdul Ahad",
+        "email": "ahad@gmail.com",
+        "phone": "9889890989",
+        "address": "S-43, Zinjuan Chungu, Tugdumbu, Chakaula",
+        "pin": "99093",
+        "city": "Kutrakus",
+        "state": "Brdngrta",
+        "user": "c1ea"
+      },
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 5280,
+      "shipping": 0,
+      "total": 5280,
+      "date": "2026-04-01T06:41:50.458Z",
+      "products": [
+        {
+          "id": "18ea",
+          "user": "c1ea",
+          "product": "5a78",
+          "name": "Kids Girl Kurta",
+          "brand": "Under Armour",
+          "color": "green",
+          "size": "28",
+          "stockQuantity": 56,
+          "price": 1760,
+          "pic": "product/kids11.jpg",
+          "total": 5280,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "id": "0328",
+      "user": "c1ea",
+      "deliveryAddress": {
+        "id": "ed3f",
+        "name": "Abdul Ahad",
+        "email": "ahad@gmail.com",
+        "phone": "9889890989",
+        "address": "S-43, Zinjuan Chungu, Tugdumbu, Chakaula",
+        "pin": "99093",
+        "city": "Kutrakus",
+        "state": "Brdngrta",
+        "user": "c1ea"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 6064,
+      "shipping": 0,
+      "total": 6064,
+      "date": "2026-04-02T04:28:36.810Z",
+      "products": [
+        {
+          "id": "18ea",
+          "user": "c1ea",
+          "product": "5a78",
+          "name": "Kids Girl Kurta",
+          "brand": "Under Armour",
+          "color": "green",
+          "size": "28",
+          "stockQuantity": 56,
+          "price": 1760,
+          "pic": "product/kids11.jpg",
+          "total": 5280,
+          "qty": 3
+        },
+        {
+          "id": "8242",
+          "user": "c1ea",
+          "product": "60c1",
+          "name": "Shape Gainer",
+          "brand": "Under Armour",
+          "stockQuantity": 43,
+          "price": 784,
+          "pic": "product/women2.jpg",
+          "total": 784,
+          "color": "navy",
+          "size": "lg",
+          "qty": 1
+        }
+      ]
+    }
+  ],
+  "contactus": [
+    {
+      "id": "454f",
+      "name": "Abdul Ahad",
+      "email": "workzone406@gmail.com",
+      "phone": "9876543222",
+      "subject": "ertyjhnb",
+      "message": "serthgbvcxserthgbvcxsewrtgbv ",
+      "date": "2026-03-28T20:15:23.563Z",
+      "status": true
+    },
+    {
+      "id": "2439",
+      "name": "Abdul Ahad",
+      "email": "sf@gmail.com",
+      "phone": "8989797654",
+      "subject": "jjuhu",
+      "message": "kjjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+      "date": "2026-03-28T20:18:03.536Z",
+      "status": false
+    },
+    {
+      "id": "4246",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:35:44.813Z",
+      "status": true
+    },
+    {
+      "id": "6efa",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:35:46.846Z",
+      "status": true
+    },
+    {
+      "id": "bca2",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:35:48.645Z",
+      "status": true
+    },
+    {
+      "id": "48e0",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:35:49.381Z",
+      "status": false
+    },
+    {
+      "id": "ccdb",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:35:49.625Z",
+      "status": true
+    },
+    {
+      "id": "ea79",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:35:49.851Z",
+      "status": true
+    },
+    {
+      "id": "6144",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:35:50.458Z",
+      "status": true
+    },
+    {
+      "id": "7dde",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:35:50.621Z",
+      "status": true
+    },
+    {
+      "id": "b86a",
+      "name": "Abdul Ahad",
+      "email": "zsdfgh@gmail.com",
+      "phone": "9876545675",
+      "subject": "sdfghjm",
+      "message": "asrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmnasrtyhjmn",
+      "date": "2026-03-28T20:36:00.331Z",
+      "status": true
+    },
+    {
+      "id": "5d3a",
+      "name": "Abdul Ahad",
+      "email": "AFGH@GMAIL.COM",
+      "phone": "9876543212",
+      "subject": "DSDSFDDG",
+      "message": "ASDFGHJHGFDSAZ",
+      "date": "2026-03-28T20:36:49.391Z",
+      "status": true
+    },
+    {
+      "id": "7a2e",
+      "name": "Abdul Ahad",
+      "email": "dfghfd@gmail.com",
+      "phone": "9877654555",
+      "subject": "sdfghj,",
+      "message": "kjytrescvghytresaz",
+      "date": "2026-03-28T20:42:05.064Z",
+      "status": true
+    },
+    {
+      "id": "73d0",
+      "name": "Abdul Ahad",
+      "email": "dfgd@gmail.com",
+      "phone": "9876567657",
+      "subject": "kjhgfdfghjk",
+      "message": "\"id\": \"7a2e\",\n\"name\": \"Abdul Ahad\",\n\"email\": \"dfghfd@gmail.com\",\n\"phone\": \"9877654555\",\n\"subject\": \"sdfghj,\",\n\"message\": \"kjytrescvghytresaz\",\n\"date\": \"2026-03-28T20:42:05.064Z\",\n\"status\": true",
+      "date": "2026-03-28T20:42:41.578Z",
+      "status": true
+    },
+    {
+      "id": "92d4",
+      "name": "Abdul Ahad",
+      "email": "dfgd@gmail.com",
+      "phone": "9876567657",
+      "subject": "sdtyh",
+      "message": "sdthbvcxzergb",
+      "date": "2026-03-28T20:43:13.443Z",
+      "status": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
