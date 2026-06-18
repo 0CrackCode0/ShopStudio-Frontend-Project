@@ -1,66 +1,68 @@
-**🛒 E-Commerce Web App (React.js)**
+# E-Commerce Web App (React.js)
 
-run frontend server : cd ecom | npm run dev
-run backend server : cd server | json-server --watch server.json --port 8000
+A simple E-Commerce application built with React.js that allows users to browse products, manage their cart, authenticate accounts, and complete the checkout process. The project uses Redux for state management and JSON Server as a mock backend.
 
-A fully functional **E-Commerce application** built with **React.js**, featuring product browsing, cart management, authentication, and state management using **Redux**, along with a mock backend powered by JSON Server.
+## Features
 
-## 🚀 Features
+* Product listing and search
+* Add to Cart and Remove from Cart
+* User authentication (Login and Signup)
+* Checkout functionality
+* State management with Redux
+* Responsive user interface
+* Mock backend using JSON Server
 
-* Product listing & search
-* Add to Cart / Remove from Cart
-* User authentication (Login / Signup)
-* Checkout system
-* Global state management using Redux
-* Responsive UI
-* Mock backend with JSON Server
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 * React.js
-* Redux (State Management)
+* Redux
 * React Router
 * JSON Server
-* CSS / Tailwind / Bootstrap
+* CSS / Tailwind CSS / Bootstrap
 
-## ⚙️ Setup & Run
+## Installation
 
-### 1. Install dependencies
+### Install Dependencies
 
-```bash id="q9x8vd"
+```bash
 npm install
 ```
 
-### 2. Run Frontend
+### Run Frontend
 
-```bash id="r2f1mz"
+```bash
 cd ecom
 npm run dev
 ```
 
-### 3. Run Backend
+### Run Backend
 
-```bash id="t7b3ks"
+```bash
 cd server
 json-server --watch server.json --port 8000
 ```
 
-## 🌐 Local Servers
+## Local Development
 
-* Frontend: http://localhost:5173
-* Backend: http://localhost:8000
+* Frontend: `http://localhost:5173`
+* Backend: `http://localhost:8000`
 
-## 📂 Backend File
+## Notes
 
-* `server/server.json` → stores products & user data
+* Product and user data are stored in `server/server.json`.
+* JSON Server is used as a mock API for development purposes.
 
-## 📌 Future Improvements
+## Future Improvements
 
-* Payment integration
-* Real backend (Node.js + Database)
-* Order tracking
+* Payment gateway integration
+* Backend with Node.js and a database
+* Order management and tracking
+* Product reviews and ratings
 
-⭐ Star this repo if you like it
+## License
 
+This project is open-source and available under the MIT License.
 
-any query? : 0ab.ahad0@gmail.com
+## Author
+Abdul Ahad
+0ab.ahad0@gmail.com
